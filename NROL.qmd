@@ -1,0 +1,9 @@
+---
+title: "NROL"
+---
+
+```{r}
+#| label: libraries
+
+library(tidyverse)
+```
